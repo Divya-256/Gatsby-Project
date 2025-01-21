@@ -1,3 +1,6 @@
+### Live Demo
+Check out the live site here: [Gatsby Project](https://gilded-griffin-610fc9.netlify.app/)
+
 # Gatsby-Project
 <p align="center">
   <a href="https://www.gatsbyjs.com">
